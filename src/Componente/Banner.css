@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/react-5a5f7.appspot.com/o/punisherBanner.webp?alt=media&token=6aca54a5-afe0-4d9f-bb7d-fb2624571fa9');
+    background-position: top center;
+    background-size: cover;
+    padding: 5% 20% 50% 20%;
+}
